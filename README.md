@@ -20,7 +20,7 @@ Mission-to-Mars analysis is based on web scraping and making analysis using NASA
 ![mars-size](/Resources/mars-size.png)
 
 ### Deliverable 2
-[Mars_data_Challenge_part_2](mars_data_challenge_part_2)
+[Mars_data_Challenge_part_2](mars_data_challenge_part_2.ipynb)
 ## Plots for the analysis
 
 **- Mars minimum tempurature average month**
