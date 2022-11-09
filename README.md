@@ -1,4 +1,4 @@
 # Mission-to-Mars
 
 ![mars](/Resources/mars.png)
-![mars_nasa](/Resources/mars_nasa.png)
+![mars_size](/Resources/mars_size.png)
