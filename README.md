@@ -18,15 +18,15 @@ Mission-to-Mars analysis is based on web scraping and making analysis using NASA
 
 ## Plots for the analysis
 
-###- Mars minimum tempurature average month
+**- Mars minimum tempurature average month**
 
 ![min_temp](https://user-images.githubusercontent.com/111251560/200919332-0985c42d-6f6f-4f11-b954-f5e7fab093b3.png)
 
--### Average atmosphere pressure per month
+**- Average atmosphere pressure per month**
 
 ![pressure_min](https://user-images.githubusercontent.com/111251560/200919660-2e54141f-f8bb-42e3-a4c4-768d9b003ac0.png)
 
--### Daily minimum tempurature
+**- Daily minimum tempurature**
 
 ![daily_temp](https://user-images.githubusercontent.com/111251560/200919757-20183148-d508-40c8-a8c6-ac50d9d233e2.png)
 
