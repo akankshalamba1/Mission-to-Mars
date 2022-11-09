@@ -18,7 +18,7 @@ Mission-to-Mars analysis is based on web scraping and making analysis using NASA
 
 ## Plots for the analysis
 
--### Mars minimum tempurature average month
+###- Mars minimum tempurature average month
 
 ![min_temp](https://user-images.githubusercontent.com/111251560/200919332-0985c42d-6f6f-4f11-b954-f5e7fab093b3.png)
 
