@@ -14,8 +14,13 @@ Mission-to-Mars analysis is based on web scraping and making analysis using NASA
 - Matplotlib
 - Chrome Driver Manager
 
+### Deliverable 1
+[Mars_data_challenge_part_1](mars_data_challenge_part_1.ipynb)
+
 ![mars-size](/Resources/mars-size.png)
 
+### Deliverable 2
+[Mars_data_Challenge_part_2](mars_data_challenge_part_2)
 ## Plots for the analysis
 
 **- Mars minimum tempurature average month**
@@ -30,3 +35,6 @@ Mission-to-Mars analysis is based on web scraping and making analysis using NASA
 
 ![daily_temp](https://user-images.githubusercontent.com/111251560/200919757-20183148-d508-40c8-a8c6-ac50d9d233e2.png)
 
+**Saving the data to csv file**
+
+[csv_file](/Resources/mars_table.csv)
