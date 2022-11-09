@@ -1,2 +1,2 @@
 # Mission-to-Mars
-![Test_Image](/Resources/mars)
+![Test_Image](Resources/mars)
