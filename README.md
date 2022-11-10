@@ -37,4 +37,4 @@ Mission-to-Mars analysis is based on web scraping and making analysis using NASA
 
 **Saving the data to csv file**
 
-[csv_file](/Resources/mars_table.csv)
+[csv_file](mars_table.csv)
